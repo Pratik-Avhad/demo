@@ -1,4 +1,4 @@
 # demo
 This is a demo repo
 <br>
-Author: Pratik Avhad.
+Author: Pratik-Avhad.
